@@ -8,8 +8,7 @@
 </p>
 
 # 💫 About Me:
-Hey there! I'm Chhavi Singh, a passionate and enthusiastic Pre-final year student with a projected graduation year of '26. Eager to boost my open-source contributions! and showcase my skills in the world of technology and problem-solving.<br>Seeking opportunities to apply my skills and make a real-world impact.Excited to collaborate and learn within the vibrant GitHub community. 
-Let's code together!
+Hello, world! I’m Chhavi Singh, a spirited pre-final year student on track to graduate in 2026. My mission? To dive deep into the open-source universe and channel my passion for technology into real-world solutions. I’m all about turning ideas into impactful code and thrive in the collaborative, ever-evolving GitHub ecosystem. Let’s create, innovate, and solve problems together—ready to make some magic?
 
 
 # 💻 Tech Stack:
