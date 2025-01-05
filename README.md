@@ -1,8 +1,7 @@
 <br clear="both">
+<h2 align="left">Hi 👋</h2>
+<h3>My name is Chhavi, and I am pursuing a Bachelor's degree in Information Technology at IGDTUW.</h3>
 
-<h3 align="left">Hi 👋, My name is Chhavi, Software Developer from Delhi, India.</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChhaviSingh02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
